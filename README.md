@@ -1,3 +1,5 @@
+![Screenshot](https://raw.github.com/okeez/gw2events/master/images/promo.jpg)
+
 gw2events
 =========
 
