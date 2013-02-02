@@ -3,6 +3,8 @@
 gw2events
 =========
 
+For installation and usage info, please check the [WIKI](https://github.com/okeez/gw2events/wiki)
+
 The (free) app has been approved for posting on the [Amazon App Store](http://www.amazon.com/OKeez-GW2Events/dp/B00B53JEX0/)!
 
 GW2Events is a free mobile app that lets gamers notify each other using a Twitter tag (#gw2events) as a notification channel. 
